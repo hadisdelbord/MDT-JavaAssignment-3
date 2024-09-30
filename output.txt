@@ -1,0 +1,3 @@
+BEV [id=301, manufacture=Manufacture [name=Tesla], yearOfManufacture=2023, engine=ElectricEngine [batteryCapacity=400, model=Model S Motor], price=85000.0, color=White, registerationNumber=789123]
+BEV [id=303, manufacture=Manufacture [name=Chevrolet], yearOfManufacture=2023, engine=ElectricEngine [batteryCapacity=200, model=Bolt EV Motor], price=37000.0, color=Red, registerationNumber=123789]
+HybridV [id=402, manufacture=Manufacture [name=Nissan], yearOfManufacture=2023, engine=HybridEgine [combustionEngine=CombustionEngine [fuelType=Hybrid Fuel, model=V6], electricEngine=ElectricEngine [batteryCapacity=150, model=Leaf Motor], model=Accord Hybrid Engine], price=35000.0, color=Black, registerationNumber=654987]
